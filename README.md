@@ -25,8 +25,4 @@ Independent crypto research analyst. CFA Level 1 Candidate. I test claims agains
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=knight204080&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 Open to crypto research, due diligence, trading/portfolio management, and quantitative analysis contract work. **[Get in touch](https://amitrathore.io/#contact)**
